@@ -21,55 +21,55 @@ export interface ProjectDetail {
 }
 
 export const projectsData: ProjectDetail[] = [
-    {
-        id: 1,
-        image: "/projects/iphone17-blender/iphone-img-1.png",
-        title: "iPhone 17 Blender 3D Model",
-        link: "iphone17-blender",
-        category: "design",
-        description: "A highly detailed 3D model of the iPhone 17 created in Blender. This project showcases advanced 3D modeling techniques, realistic material shaders, and professional lighting setup. The model includes accurate proportions, detailed textures, and is ready for rendering and animation.",
-        technologies: ["Blender", "Cycles Render", "Substance Painter"],
-        sections: [
-            {
-                title: "Project Highlights",
-                type: "list",
-                content: [
-                    "High-poly 3D model with accurate iPhone 17 proportions",
-                    "Realistic material shaders and textures",
-                    "Professional lighting setup for product visualization",
-                    "Multiple camera angles and render passes",
-                    "Animation-ready with proper topology",
-                    "Optimized for both still renders and animations"
-                ]
-            },
-            {
-                title: "About the Model",
-                type: "text",
-                content: "This iPhone 17 3D model was meticulously crafted in Blender, focusing on accuracy and detail. The model features realistic materials including glass, metal, and screen elements. The project includes multiple render shots showcasing different angles and lighting conditions, demonstrating the versatility of the model for various use cases."
-            },
-            {
-                title: "Technical Details",
-                type: "list",
-                content: [
-                    "Blender 3.6+ compatible",
-                    "Cycles rendering engine optimized",
-                    "Clean topology for animation",
-                    "PBR materials with realistic reflections",
-                    "High-resolution textures included",
-                    "Multiple camera setups for different shots"
-                ]
-            }
-        ],
-        additionalImages: [
-            "/projects/iphone17-blender/iphone-img-1.png",
-            "/projects/iphone17-blender/iphone-img-2.png"
-        ],
-        videos: [
-            "/projects/iphone17-blender/shot1.mkv",
-            "/projects/iphone17-blender/shot2.mkv"
-        ],
-        downloadLink: "/projects/iphone17-blender/iphone.blend"
-    },
+    // {
+    //     id: 1,
+    //     image: "/projects/iphone17-blender/iphone-img-1.png",
+    //     title: "iPhone 17 Blender 3D Model",
+    //     link: "iphone17-blender",
+    //     category: "design",
+    //     description: "A highly detailed 3D model of the iPhone 17 created in Blender. This project showcases advanced 3D modeling techniques, realistic material shaders, and professional lighting setup. The model includes accurate proportions, detailed textures, and is ready for rendering and animation.",
+    //     technologies: ["Blender", "Cycles Render", "Substance Painter"],
+    //     sections: [
+    //         {
+    //             title: "Project Highlights",
+    //             type: "list",
+    //             content: [
+    //                 "High-poly 3D model with accurate iPhone 17 proportions",
+    //                 "Realistic material shaders and textures",
+    //                 "Professional lighting setup for product visualization",
+    //                 "Multiple camera angles and render passes",
+    //                 "Animation-ready with proper topology",
+    //                 "Optimized for both still renders and animations"
+    //             ]
+    //         },
+    //         {
+    //             title: "About the Model",
+    //             type: "text",
+    //             content: "This iPhone 17 3D model was meticulously crafted in Blender, focusing on accuracy and detail. The model features realistic materials including glass, metal, and screen elements. The project includes multiple render shots showcasing different angles and lighting conditions, demonstrating the versatility of the model for various use cases."
+    //         },
+    //         {
+    //             title: "Technical Details",
+    //             type: "list",
+    //             content: [
+    //                 "Blender 3.6+ compatible",
+    //                 "Cycles rendering engine optimized",
+    //                 "Clean topology for animation",
+    //                 "PBR materials with realistic reflections",
+    //                 "High-resolution textures included",
+    //                 "Multiple camera setups for different shots"
+    //             ]
+    //         }
+    //     ],
+    //     additionalImages: [
+    //         "/projects/iphone17-blender/iphone-img-1.png",
+    //         "/projects/iphone17-blender/iphone-img-2.png"
+    //     ],
+    //     videos: [
+    //         "/projects/iphone17-blender/shot1.mkv",
+    //         "/projects/iphone17-blender/shot2.mkv"
+    //     ],
+    //     downloadLink: "/projects/iphone17-blender/iphone.blend"
+    // },
     {
         id: 2,
         image: "/projects/hamoud/hamoud-assets/bottle-alone.png",
