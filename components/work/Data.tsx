@@ -71,7 +71,7 @@ export const projectsData: ProjectDetail[] = [
     //     downloadLink: "/projects/iphone17-blender/iphone.blend"
     // },
     {
-        id: 2,
+        id: 1,
         image: "/projects/hamoud/hamoud-assets/bottle-alone.png",
         title: "Hamoud Algerian Drink Bottle 3D Model",
         link: "hamoud-bottle",
